@@ -1,5 +1,15 @@
 # Welcome to my world!! 👋
-![GitHub Gist last commit](https://img.shields.io/github/gist/last-commit/:gistId)
+![Static Badge](https://img.shields.io/badge/Typescript) 
+![Static Badge](https://img.shields.io/badge/Angular)
+![Static Badge](https://img.shields.io/badge/React)
+![Static Badge](https://img.shields.io/badge/Laravel)
+![Static Badge](https://img.shields.io/badge/SpringBoot)
+![Static Badge](https://img.shields.io/badge/DBMS)
+![Static Badge](https://img.shields.io/badge/NodeJs)
+![Static Badge](https://img.shields.io/badge/PostgreSQL)
+
+
+
 
 <!--
 **shamsuddha/shamsuddha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
