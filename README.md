@@ -1,5 +1,5 @@
 <h1 align="center">I'm Shamsuddha al amin</h1>
-<h3 align="center">Full Stack Web Developer</h3>
+<p>An aspiring Java developer with a strong foundation in full-stack development, seeking a mid-level position to leverage and expand my skills. My technical expertise includes proficiency in Java, as well as hands-on experience with front-end technologies such as Typescript, Angular, and Bootstrap. I am passionate about building efficient, scalable web applications and am eager to contribute to a dynamic development team while continuously enhancing my programming capabilities. </p>
 
 - 🔭 I’m currently working on **Hotel Management Software**
 - 🔭 also on [Ecommerce Application](https://bichitrobazar.com/)
