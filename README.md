@@ -1,11 +1,11 @@
 <h1 align="center">I'm Shamsuddha al amin</h1>
 <p>An aspiring Java developer with a strong foundation in full-stack development, seeking a mid-level position to leverage and expand my skills. My technical expertise includes proficiency in Java, as well as hands-on experience with front-end technologies such as Typescript, Angular, and Bootstrap. I am passionate about building efficient, scalable web applications and am eager to contribute to a dynamic development team while continuously enhancing my programming capabilities. </p>
 
-- 🔭 I’m currently working on **Hotel Management Software** and an [Ecommerce Application](https://bichitrobazar.com/)
-- 🌱 I’m currently learning **Hibernate**
-- 👨‍💻 All of my projects are available at [Craft Coders Lab](https://craftcoderslab.com/)
-- 📝 I regularly write articles on [Click To See My Blogs](https://craftcoderslab.com/blog)
-- 📫 Mail Me **shamsuddha@gmail.com**
+- I’m currently working on **Hotel Management Software** and an [Ecommerce Application](https://bichitrobazar.com/)
+- I’m currently learning **Hibernate**
+- All of my projects are available at [Craft Coders Lab](https://craftcoderslab.com/)
+- I regularly write articles on [Click To See My Blogs](https://craftcoderslab.com/blog)
+- Mail Me **shamsuddha@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
